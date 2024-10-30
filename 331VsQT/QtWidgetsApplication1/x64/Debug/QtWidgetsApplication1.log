@@ -1,0 +1,8 @@
+﻿   Qt/MSBuild: 3.3.0.13
+   Qt: 5.14.2
+  QtWidgetsApplication1.cpp
+C:\Users\pc\Desktop\331VsQT\QtWidgetsApplication1\QtWidgetsApplication1.cpp(431,50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\pc\Desktop\331VsQT\QtWidgetsApplication1\QtWidgetsApplication1.cpp(713,22): warning C4101: “y2”: 未引用的局部变量
+  QtWidgetsApplication1.vcxproj -> C:\Users\pc\Desktop\331VsQT\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
